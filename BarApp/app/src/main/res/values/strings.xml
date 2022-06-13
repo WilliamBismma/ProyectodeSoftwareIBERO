@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BarAppBismma</string>
+
+    //Menu
+    <string name="NomUsuario">Nombre</string>
+    <string name="PerUsuario">Perfil</string>
+
+    //Ingreso
+    <string name="Capturar">Capturar</string>
+    <string name="Aceptar">Aceptar</string>
+
+</resources>
